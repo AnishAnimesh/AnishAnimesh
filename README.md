@@ -58,28 +58,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### Civic AI — Mobile Civic Issue Reporting Platform
-
-**React Native · Expo · Supabase · Google Gemini**
-
-A cross-platform app for reporting and tracking civic issues. It uses AI image analysis to suggest an issue's category, urgency, and description, with live maps and dashboards to support response workflows.
-
-### Housing Price Prediction Pipeline
-
-**Python · scikit-learn · Pandas**
-
-A housing price prediction workflow with automated preprocessing. It compares Random Forest, Decision Tree, and Linear Regression models using 10-fold cross-validation and RMSE.
-
-### OCR-Based Text Recognition System
-
-**C# · .NET Windows Forms · OpenCvSharp · Tesseract OCR**
-
-A desktop app that preprocesses images, detects text in multiple regions, displays bounding boxes, and exports extracted text to CSV.
-
----
-
 ## 💼 Experience
 
 **Summer Intern — Bhabha Atomic Research Centre (BARC)** · May–July 2026  
